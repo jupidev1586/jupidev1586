@@ -27,7 +27,7 @@
 </div>
 
 
-- <img src="https://www.flaticon.com/free-icon/laptop_610021?term=laptop&page=1&position=8&page=1&position=8&related_id=610021&origin=search" height="15" alt="">: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- <img src="https://cdn-icons-png.flaticon.com/512/610/610021.png" height="15" alt="">: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :guitar: In my free time, I play music with my Guitar.
 
