@@ -1,5 +1,5 @@
 
-<img src="http:///www.derinaldi.it/out/1234.gif"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="100%"/>
 
 ### :man_technologist: About Me :
 
