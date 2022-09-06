@@ -32,6 +32,6 @@
 
 - :guitar: In my free time, I play music with my Guitar.
 
-- :mailbox:How to reach me: <br><br>
+- :mailbox: How to reach me: <br><br>
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianpaolo-buono/)
 
