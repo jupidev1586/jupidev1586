@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="100%"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1200px" height="100%"/>
 </div>
 
 
-<div align="">
-  ### :man_technologist: About Me :
-</div>
+
+### :man_technologist: About Me :
+
 
 <div align="left">
   I am a Front end Developer <img src="https://media.giphy.com/media/Q5hFA1l3tmdCoRskwM/giphy-downsized-large.gif" width="30"> from Italy.
