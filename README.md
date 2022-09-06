@@ -8,7 +8,7 @@
 
 
 <div align="left">
-  I am a Front end Developer from Italy <img src="https://media.giphy.com/media/Q5hFA1l3tmdCoRskwM/giphy-downsized-large.gif" width="15">.
+  I am a Front end Developer from Italy. <img src="https://media.giphy.com/media/Q5hFA1l3tmdCoRskwM/giphy-downsized-large.gif" width="15">
 </div>  
 
 ---
@@ -30,7 +30,7 @@
 </div>
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :zap: In my free time, I play music with my Guitar.
 
