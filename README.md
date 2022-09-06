@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1200px" height="100%"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="900px" height="100%"/>
 </div>
 
 
@@ -8,13 +8,11 @@
 
 
 <div align="left">
-  I am a Front end Developer <img src="https://media.giphy.com/media/Q5hFA1l3tmdCoRskwM/giphy-downsized-large.gif" width="30"> from Italy.
+  I am a Front end Developer from Italy <img src="https://media.giphy.com/media/Q5hFA1l3tmdCoRskwM/giphy-downsized-large.gif" width="15">.
 </div>  
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I play music with my Guitar.
 
