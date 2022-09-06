@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="100%"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="460" height="100%"/>
 
 ### :man_technologist: About Me :
 
@@ -27,7 +27,7 @@
 </div>
 
 
-- :code: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :monitor: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :guitar: In my free time, I play music with my Guitar.
 
