@@ -1,5 +1,5 @@
 <div align="">
-  <img src="https:///www.derinaldi.it/out/1234.gif" width="100%" height="100%"/>
+  <img src="http:///www.derinaldi.it/out/1234.gif" width="100%" height="100%"/>
 </div>
 
 
