@@ -1,8 +1,5 @@
-<div align="">
-  <img src="http:///www.derinaldi.it/out/1234.gif" width="100%" height="100%"/>
-</div>
 
-
+<img src="http:///www.derinaldi.it/out/1234.gif" width="100%" height="100%"/>
 
 ### :man_technologist: About Me :
 
@@ -34,5 +31,6 @@
 
 - :zap: In my free time, I play music with my Guitar.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianpaolo-buono/)
+- :mailbox:How to reach me: <br><br>
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianpaolo-buono/)
 
