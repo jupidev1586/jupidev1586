@@ -1,5 +1,5 @@
 <div align="">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="790px" height="100%"/>
+  <img src="/www.derinaldi.it/out/1234.gif" width="100%" height="100%"/>
 </div>
 
 
