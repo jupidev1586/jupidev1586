@@ -6,13 +6,15 @@
 
 <div align="left">
   I'm a Front end Developer from Italy. <img src="https://media.giphy.com/media/Q5hFA1l3tmdCoRskwM/giphy-downsized-large.gif" width="15">
-</div>  
-<img src="https://cdn-icons-png.flaticon.com/512/610/610021.png" height="15" alt=""> I’m working as a Software Engineer and contributing to frontend for building web applications.
-<br>
-:guitar: In my free time, I play music with my Guitar.
-<br>
-:mailbox: How to reach me: <br><br>
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianpaolo-buono/)
+  <img src="https://cdn-icons-png.flaticon.com/512/610/610021.png" height="15" alt=""> I’m working as a Software Engineer and contributing to frontend for building web applications.
+  <br>
+  :guitar: In my free time, I play music with my Guitar.
+  <br>
+  :mailbox: How to reach me: <br><br>
+    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianpaolo-buono/)
+
+  </div>  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -33,5 +35,4 @@
 </div>
 
 <br><br>
-
 
