@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://cdn-icons-png.flaticon.com/512/610/610021.png" height="15" alt=""> I’m working as a Software Engineer and contributing to frontend for building web applications.
+<img src="https://cdn-icons-png.flaticon.com/512/610/610021.png" height="15" alt=""> I’m working as a Front end developer since 2012, building wesites and web applications.
 <br>
 :guitar: In my free time, I play music with my Guitar.
 <br>
