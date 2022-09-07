@@ -30,8 +30,8 @@
 <br><br>
 <img src="https://cdn-icons-png.flaticon.com/512/610/610021.png" height="15" alt=""> I’m working as a Software Engineer and contributing to frontend for building web applications.
 <br>
-guitar: In my free time, I play music with my Guitar.
+:guitar: In my free time, I play music with my Guitar.
 <br>
-mailbox: How to reach me: <br><br>
+:mailbox: How to reach me: <br><br>
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianpaolo-buono/)
 
